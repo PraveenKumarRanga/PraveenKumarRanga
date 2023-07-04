@@ -16,7 +16,7 @@
 - 🗺️ Want to know more? Check out my **[Portfolio](https://PraveenKumarRanga.github.io/)** 🌐
 
 - ⚡ Fun fact - **I Like playing volleyball 😎**
-<img align="right" alt="Coding" width="100" src="https://media.giphy.com/media/ZSZTGUtpQr0u7cfveB/giphy.gif">
+
 
 <h3 align="left">Lets talk:</h3>
 <p align="left">
