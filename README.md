@@ -1,59 +1,36 @@
-<h1 align="center">Hi 👋, I'm Praveen Kumar Ranga</h1>
-<h3 align="center">A passionate Java backend developer from India</h3>
-
-<p align="center" color:"red">
-     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-          <img src="https://readme-typing-svg.demolab.com/?lines=Hello! I am Praveen Kumar Ranga 🏽; I am a Java%20Backend%20Developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
-      </p>
-
-<img align="" alt="Coding" width="400" margin="auto" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PraveenKumarRanga&label=Profile%20views&color=0e75b6&style=flat" alt="PraveenKumarRanga" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PraveenKumarRanga" alt="PraveenKumarRanga" /></a> </p>
+<h1 align="center">Hello World 👋, I'm Praveen Kumar Ranga </h1>
+<h3 align="center">Passionate Core Java enthusiast with proficiency in JavaScript, HTML, and CSS <br>exploring the multiverse of 1's & 0's</h3>
+<img align="right" alt="Coding" width="100%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 
-- 🌱 I’m currently learning *JAVA*
-- My Linkedin Account is ([Linkedin(https://www.linkedin.com/in/praveen-kumar-ranga-9b1167268/))
 
-- 👨‍💻 All of my projects are available at ([github.io](https://PraveenPumarRanga.github.io))
-
-- 💬 Ask me about *HTML,CSS,JavaScript,Java,SQL,Maven,Spring-boot*
-
-- 📫 How to reach me *praveenkr.ranga@gmail.com*
-
-- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1a_a1i6X6g1p8gVFZI-FoeRzsnOxO5_J1/view?usp=sharing))
-- ⚡ Fun fact *The first computer “bug” was an actual real-life bug.*
-
-# 💫 About Me:
-Hello, my name is Praveen Kumar Ranga and I am from Bhiwani , Haryana. I recently graduated with a B.Tech in Computer Science & Engineering in 2021. As a Java backend web developer, I am skilled in HTML, CSS, JavaScript, Java, SQL, Maven and Spring-Boot. With my education and expertise, I have a strong foundation for building end-to-end web applications that incorporate Java back-end development.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PraveenKumarRanga&label=Visitors&color=0e75b6&style=flat" alt="PraveenKumarRanga" /> </p>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ranga.praveen/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-kumar-ranga-9b1167268/)
- <a href="https://PraveenKumarRanga.github.io/">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
-    </a>
+- 🔭 I’m currently learning **JAVA Back-End & Spring**
+ 
+- 💬 Ask me about **Spring, Java, Hibernate, JavaScript, HTML, CSS, MySQL.**
 
+- 📫 You will find me at **praveenkr.ranga@gmail.com**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![JAVA](https://img.shields.io/badge/JAVA-6DA55F?style=for-the-badge&logo=JAVA&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-black?style=for-the-badge&logo=Maven&badgeColor=010101) ![Spring-Boot](https://img.shields.io/badge/Spring-Boot-%234ea94b.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://PraveenKumarRanga.github.io/) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PraveenKumarRanga&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PraveenKumarRanga&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKumarRanga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-activity-graph.cyclic.app/graph?username=PraveenKumarRanga&count_private=true&theme=react-dark&hide_border=true)
+- 🗺️ Want to know more? Check out my **[Portfolio](https://PraveenKumarRanga.github.io/)** 🌐
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- ⚡ Fun fact - **I Like playing volleyball 😎**
+<img align="right" alt="Coding" width="100" src="https://media.giphy.com/media/ZSZTGUtpQr0u7cfveB/giphy.gif">
 
-<!-- ### 😂 Random Dev Meme
-![Random Dev Meme](https://example.com/meme.jpg)
- -->
----
+<h3 align="left">Lets talk:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/praveen-kumar-ranga-9b1167268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praveen-kumar-ranga-9b1167268/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ranga.praveen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ranga.praveen/" height="30" width="40" /></a
+ </p>
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=anshumapunia&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://PraveenKumarRanga.github.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PraveenKumarRanga&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="PraveenKumarRanga" /></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PraveenKumarRanga&show_icons=true&locale=en&theme=tokyonight" alt="PraveenKumarRanga" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenKumarRanga&&theme=tokyonight" alt="PraveenKumarRanga" /></p>
+ 
+ <img align="center" alt="Coding" width="100%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/50cd3144-a4f0-43a8-b464-78a1714e8628/dchoqoo-c9cb91ac-14cc-49da-9ac1-5786676e8893.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUwY2QzMTQ0LWE0ZjAtNDNhOC1iNDY0LTc4YTE3MTRlODYyOFwvZGNob3Fvby1jOWNiOTFhYy0xNGNjLTQ5ZGEtOWFjMS01Nzg2Njc2ZTg4OTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nNAiX6RCm94AEDVNp0-2AOI8d2xo_8TmFxcIn1Kmt0M">
