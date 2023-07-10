@@ -13,7 +13,7 @@
 
 - 📫 You will find me at **praveenkr.ranga@gmail.com**
 
-- 🗺️ Want to know more? Check out my **[Portfolio](https://PraveenKumarRanga.github.io/)** 🌐
+- 🗺️ Want to know more? Check out my **[Portfolio](https://praveenkumarranga.github.io)** 🌐
 
 - ⚡ Fun fact - **I Like playing volleyball 😎**
 
